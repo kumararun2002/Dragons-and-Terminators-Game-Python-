@@ -1,0 +1,21 @@
+{
+    "name": "Project: Dragons Vs. Terminators",
+    "endpoint": "",
+    "src": [
+        "dragons.py"
+    ],
+    "tests": {
+        "tests/phase_[1-4].py": "ok_test"
+    },
+    "default_tests": [
+    ],
+    "protocols": [
+        "restore",
+        "file_contents",
+        "unlock",
+        "grading",
+        "analytics",
+        "collaborate",
+        "backup"
+    ]
+}
